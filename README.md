@@ -12,6 +12,11 @@ Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)
 [packer](https://github.com/wbthomason/packer.nvim)
 
 
+
+
+
+# The Build info
+
 This build is setup as a starting point and will get you up and running quickly for web development. 
 
 Once you clone or fork this repo please go through and feel free to change some of the settings to suit your preferences.
