@@ -2,7 +2,7 @@
 
 Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)
 
-#### Links for info
+### Links for info
 
 [treesitter](https://github.com/nvim-treesitter/nvim-treesitter)   
 [fugitive](https://github.com/tpope/vim-fugitive)    
@@ -15,7 +15,7 @@ Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 
 
-##### The Build info
+### The Build info
 
 This build is setup as a starting point and will get you up and running quickly for web development. 
 
