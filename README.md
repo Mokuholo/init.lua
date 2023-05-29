@@ -4,7 +4,7 @@ Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)
 
 # Links for info
 
-[treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+[treesitter](https://github.com/nvim-treesitter/nvim-treesitter).
 [fugitive](https://github.com/tpope/vim-fugitive)
 [harpoon](https://github.com/ThePrimeagen/harpoon)
 [telescope](https://github.com/nvim-telescope/telescope.nvim)
